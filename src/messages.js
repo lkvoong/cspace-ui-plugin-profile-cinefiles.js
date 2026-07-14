@@ -6,9 +6,10 @@ export default {
       Pacific Film Archive.
     </p>
     <p>
-      This service is supported by UC Berkeley <a href="http://research-it.berkeley.edu/">Research IT</a>.
-      To send feedback, report bugs, or request support, email
+      This service is supported by UC Berkeley <a href="https://research-it.berkeley.edu/">Research IT</a>.
+      To send feedback, report bugs or request support (including accessibility), email
       <a href="mailto:cspace-support@lists.berkeley.edu">cspace-support@lists.berkeley.edu</a>.
+      For accessibility issues, our team will respond within 1-2 business days.
     </p>`,
 
   'footer.feedback': 'Contact UC Berkeley CollectionSpace support',
